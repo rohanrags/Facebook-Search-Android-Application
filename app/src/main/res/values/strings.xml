@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Search on FB</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Add_to_Favorites">Add to Favorites</string>
+    <string name="enter_a_keyword">Enter a Keyword:</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_about_me">About me</string>
+
+    <string name="tabs">Tabs</string>
+    <string name="tab_users">Users</string>
+    <string name="tab_groups">Groups</string>
+    <string name="test_Text">test</string>
+    <string name="hello_result_fragment">Hello Result fragment</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="facebook_app_id">667747603410592</string>
+
+</resources>

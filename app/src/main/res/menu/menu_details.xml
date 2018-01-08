@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rohan.hw9.DetailsActivity">
+    <item
+        android:id="@+id/Add_to_favorites"
+        android:orderInCategory="100"
+        android:title="@string/Add_to_Favorites"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Remove_favorites"
+        android:orderInCategory="100"
+        android:title="Remove from Favorites"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Share_fb"
+        android:orderInCategory="100"
+        android:title="Share"
+        app:showAsAction="never" />
+</menu>
